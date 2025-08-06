@@ -5,10 +5,11 @@
 ---
 
 ## 🚀 Projects
-- **Student Management System**  
-- **Online Banking System**  
-- **Library Management System**  
-- **Simple Portfolio Website**  
+
+- **Crime Detection and Prevention**
+- **Plant leaves diseases Detection**
+- **Online Banking System**
+- **Simple Portfolio Website**
 
 ---
 
