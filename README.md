@@ -2,14 +2,15 @@
 
 🎓 BCA Graduate | Aspiring Web & Software Developer
 🌱 Currently learning Full Stack Development @ Pentagon Space, Bangalore
+
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
-- **Crime Detection and Prevention**
-- **Plant leaves diseases Detection**
-- **Online Banking System**
-- **Simple Portfolio Website**
+- 💻 **Crime Detection and Prevention**
+- 🌿 **Plant leaves diseases Detection**
+- 🏦 **Online Banking System**
+- 🌐 **Simple Portfolio Website**
 
 ---
 | Category | Skills |
@@ -42,14 +43,4 @@ I'm open to collaborating on **beginner-level web development and software proje
 <!--
 **Sudhamanidb/Sudhamanidb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
