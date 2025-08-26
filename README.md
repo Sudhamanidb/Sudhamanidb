@@ -26,15 +26,8 @@
 **Python Full Stack Development Intern** - Pentagon Space (July 2025 – Present)
 * **Developed:** Building full-stack applications and gaining practical experience with key technologies including **HTML, CSS, JavaScript, React.js, Django, and Flask**.
 
----
-
 **Python Development Intern** - Hope Foundation (Jan 2025 - May 2025)
 * **Applied:** Learned and applied core concepts of **Python and the Django framework** on real-world projects, enhancing problem-solving and technical skills.
-
-------
-
-
----
 
 
 ---
@@ -42,9 +35,9 @@
 
 I'm open to collaborating on **beginner-level web development and software projects**.
 
-* <br>
+<br>
 * 📫 **Email:** sudhamanidb11@gmail.com
-* <br>
+ <br>
 * 🌐 **LinkedIn:** [linkedin.com/in/sudhamani-db-2380b7259](https://www.linkedin.com/in/sudhamani-db-2380b7259)
 <!--
 **Sudhamanidb/Sudhamanidb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
