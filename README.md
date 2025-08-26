@@ -23,9 +23,14 @@
 ---
 ### 💼 Internship Experience
 
-**Python Full Stack Development Intern** – Pentagon Space (July 2025 – Present)
-* Gaining hands-on experience in full-stack development using HTML, CSS, JavaScript, React.js, Django, and Flask.
-* Currently pursuing another internship in the same domain at Pentagon Space.
+**Python Full Stack Development Intern** - Pentagon Space (July 2025 – Present)
+* **Developed:** Building full-stack applications and gaining practical experience with key technologies including **HTML, CSS, JavaScript, React.js, Django, and Flask**.
+
+---
+
+**Python Development Intern** - Hope Foundation (Jan 2025 - May 2025)
+* **Applied:** Learned and applied core concepts of **Python and the Django framework** on real-world projects, enhancing problem-solving and technical skills.
+
 ------
 
 
